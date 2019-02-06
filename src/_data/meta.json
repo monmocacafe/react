@@ -1,0 +1,11 @@
+{
+    "index.html": {
+        "title":"トップ",
+        "description":"トップページです。",
+        "keywords":"トップ,トップ,トップ",
+        "ogurl":"トップページ",
+        "ogtitle":"ogタイトル",
+        "ogpagetype":"ogページタイプ",
+        "ogdescription":"ogディスクリプション"
+    }
+}
